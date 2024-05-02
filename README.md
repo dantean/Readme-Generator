@@ -36,6 +36,7 @@ MIT License - The License file is provided here : (./LICENSE)
 
 Screenshots located in "./assets/"
 Online gallery: https://imgur.com/a/qlRCoXs
+Walktrhough video: https://imgur.com/cXqr58y
 
 
 ## GitHub Repository

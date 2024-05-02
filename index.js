@@ -12,7 +12,17 @@ const questions = [{
     message:"What is your proect title?",
     name:'license',
     choices:["MIT","Apache","IBM","No License"]
-}];
+},{   
+    type:'input',
+    message:"What is your email address?",
+    name:'email',
+},{
+    type:'input',
+    message:"What is your Github username?",
+    name:'username',
+},  
+];
+
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {

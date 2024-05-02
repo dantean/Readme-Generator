@@ -5,11 +5,11 @@ const inquirer= require("inquirer")
 // TODO: Create an array of questions for user input
 const questions = [{
     type:'input',
-    message:"What is your proect title?",
+    message:"What is your project title?",
     name:'title'
 },{
     type:'list',
-    message:"What is your proect title?",
+    message:"What is your project title?",
     name:'license',
     choices:["MIT","Apache","IBM","No License"]
 },{   

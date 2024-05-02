@@ -1,10 +1,10 @@
-# 4592304903294023
+# TEST 123
 
-  ![github license](https://img.shields.io/badge/license-Apache-yellow.svg)  
+  ![github license](https://img.shields.io/badge/license-IBM-yellow.svg)  
 
 ## Description
  
-234234232365235236 
+test description 
 
 ## Table of Contents (Optional)
  
@@ -16,26 +16,26 @@
 
 ## Installation
 
-6236236236236
+clone repo, type npm start :D
 
 ## Usage
 
-2345234324 
+type npm start in console :D 
 
 ## Contributing
 
-4236237237 
+not really 
 
 ## License
 
-This application is licensed under the Apache license.
+This application is licensed under the IBM license.
  
 ## Tests
 
- 235234623463476
+ these ones
 
  ## Questions
    <ul>
-     <li> <a href='mailto://23423432?subject="contact me"&body="hi"'> Email Me </a>  </li>
-     <li> <a href='https://github.com/234234234'> My Github Profile </a>   </li> 
+     <li> <a href='mailto://test@email.com?subject="contact me"&body="hi"'> Email Me </a>  </li>
+     <li> <a href='https://github.com/dantean'> My Github Profile </a>   </li> 
   </ul>

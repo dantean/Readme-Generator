@@ -30,9 +30,9 @@ ${data.description}
  
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#Contributing)
+- [Contributing](#contributing)
 - [License](#license)
-- [Tests](#test)
+- [Tests](#tests)
 
 ## Installation
 

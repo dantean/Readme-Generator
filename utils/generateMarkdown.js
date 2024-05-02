@@ -22,8 +22,6 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}  
 
-module.exports = generateMarkdown;
-
 ## Description
  
 ${data.description} 
@@ -32,8 +30,9 @@ ${data.description}
  
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributing](#Contributing)
 - [License](#license)
+- [Tests](#test)
 
 ## Installation
 

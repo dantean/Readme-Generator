@@ -18,7 +18,27 @@ const questions = [{
     type:'input',
     message:"What is your Github username?",
     name:'username',
-},  
+},{
+    type:'input',
+    message:"Please enter a description for your application.",
+    name:'description',
+},{
+    type:'input',
+    message:"How do you install the application?",
+    name:'installation',
+},{
+    type:'input',
+    message:"How do you use this application?",
+    name:'usage',
+},{
+    type:'input',
+    message:"How can people contribute to this project?",
+    name:'contributing',
+},{
+    type:'input',
+    message:"What tests have you run?",
+    name:'test',
+},
 ];
 
 
